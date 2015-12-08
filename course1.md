@@ -9,9 +9,24 @@ This is the first course in the Web Design For Everybody specialization. Subsequ
 
 ####Week 1 
 #####Week One
+This week we will uncover the "mystery" behind the Internet. What happens when you type a URL into your browser so that a webpage magically appears? What is HTML5 and what happened to HTML 1 - 4? We will also cover some practical concepts that you need to master before you begin coding your own pages.
+
 - Welcome
 - History and Evolution
 - How It Works
 - Tools and Tips
 - Review
 - Quiz: Week One - HTML/Web basics
+
+####Week 2 
+#####Week Two
+This week you will need to take a deep breath and jump into coding. I will cover a large number of HTML tags, but it is important that you do more than just listen to these video and read the text book material. You need to practice (and fail!) in order to learn. Believe it or not, once you master the basic idea of using tags and attributes you will know everything you need to use any HTML5 tag. The page may not look the way you want it to look yet, but you will be able to use text, links, images, tables, and even music and videos! If you want to refer to a textbook this week for reinforcement of concepts, we will be covering Chapters 7 (again), 9, 10, 11, 13, 16, and 18. Some of the quiz questions may come from the reading!!
+
+- The Document Object Model (DOM)
+- HTML5 Elements - Tags, Syntax, Semantics, and Templates
+- Images
+- Hyperlinks
+- Multimedia -- LECTURES: Multimedia
+- Tables -- LECTURES: Tables
+- Review -- LECTURES: Useful Tags
+- Quiz: Tags!
