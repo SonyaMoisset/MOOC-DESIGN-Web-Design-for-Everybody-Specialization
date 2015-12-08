@@ -13,3 +13,4 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ###08/1/2015
 - Enrolled in the program
 - Finished Week 1 | HTML5 History, Evolution, Tools and Tips in Course 1 | Introduction to HTML5
+- Finished Week 2 | The DOM & HTML5 Elements in Course 1 | Introduction to HTML5
