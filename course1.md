@@ -30,3 +30,17 @@ This week you will need to take a deep breath and jump into coding. I will cover
 - Tables -- LECTURES: Tables
 - Review -- LECTURES: Useful Tags
 - Quiz: Tags!
+
+####Week 3 
+#####Week Three
+Okay, you created a file...what now? This week we will begin by covering the important but often overlooked concepts of validation and accessibility. Did you follow the DOM structure when you created your page? Did you use semantic tags to make sure that page viewers can access all of the information, even if they have physical or cognitive disabilities? This is knowledge you can use if you would like to pursue a career as a web accessibility specialist. Finally I will briefly cover the steps needed to post your site to the web. There are many free and paid services that you can use to get your work off your computer and on to the Internet.
+
+- Accessibility - Human Factors to Consider in Web Design
+- Validating Your Code
+- Putting Your Code on the Web - LECTURES HERE ARE -- Hosting Your Site, cPanel, Using Secure File Transfer Protocol
+- Review
+- Quiz: Hosting and Validation
+- Final Project
+- Quiz: Final Project - Put it Together
+- Where To Go From Here?
+- The Secret Lecture
