@@ -17,3 +17,6 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ###09/12/2015
 - Finished Week 3 | Accessibility, Hosting and Validation in Course 1 | Introduction to HTML5
+
+###10/12/2015
+- Finished Week 1 | Getting Started with Simple Styling in Course 2 | Introduction to CSS3
