@@ -23,3 +23,6 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ### 15/12/2015
 - Finished Week 2 | Advanced Styling in Course 2 | Introduction to CSS3
+
+### 17/12/2015
+- Finished Week 3 | Pseudo-classes, Pseudo-elements, Transitions, and Positioning in Course 2 | Introduction to CSS3
