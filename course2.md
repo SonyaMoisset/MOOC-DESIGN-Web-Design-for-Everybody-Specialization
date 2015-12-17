@@ -26,3 +26,12 @@ Colors and fonts are just the start to styling your page. The nice thing about s
 - Assessments
 - Quiz: Advanced Selectors Quiz
 - Assignment: Advanced Style
+
+#### Week 3
+##### Week Three: Pseudo-classes, Pseudo-elements, Transitions, and Positioning
+Have you ever noticed on a web page that some links are blue and others are purple, depending upon if you have clicked on the links? How is it possible to style some anchor tags and not others? This week you will learn how to style pseudo-classes (e.g. a link that has been visiting, an element that has the mouse hovering over it) and pseudo-elements (e.g. the first-letter of a heading, the first line of a paragraph). These elements are not difficult to style, but do require careful coding. It is also the first step to adding simple animation to your site. We end this week with the subject of positioning -- how to get elements to stick to a certain part of your page. Think about annoying pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE OF THE SCREEN despite the fact that you keep trying to scroll them away.
+
+- Advanced Ideas
+- Assessment
+- Optional Resources
+- Quiz: Final Quiz
