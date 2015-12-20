@@ -35,3 +35,11 @@ Have you ever noticed on a web page that some links are blue and others are purp
 - Assessment
 - Optional Resources
 - Quiz: Final Quiz
+
+#### Week 4
+##### Putting It All Together
+This week I am going to do some code review. I will show you how I used pseudo-classes and pseudo-elements to style a table. Then I give you a demonstration of three different navigation bars that utilize different styling options. We will want to step back and talk about how these different options may affect the accessibility of our site. The final step to completing this course is the completion of the peer-graded project. You will have the chance to demonstrate the ability to follow styling guidelines while still putting your own personal touch on the project. Just remember, you need to validate your work for proper syntax and accessibility.
+
+- Welcome
+- Other Resources
+- Assignment: Styling A Table
