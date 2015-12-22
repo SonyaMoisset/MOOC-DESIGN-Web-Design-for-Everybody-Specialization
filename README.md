@@ -29,3 +29,6 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ### 20/12/2015
 - Finished Week 4 | Putting It All Together in Course 2 | Introduction to CSS3
+
+### 22/12/2015
+- Finished Week 1 | Introduction to JavaScript in Course 3 | Interactivity with JavaScript
