@@ -24,3 +24,12 @@ If you have written HTML code in the past, hopefully you have fallen into the gr
 - Lecture Materials
 - Assessment
 - Assignment: JavaScript Interactive Photo Galery
+
+#### Week 3
+##### Week Three: Arrays and Looping
+This week we will delve into more complex programming concepts: arrays and looping. Arrays allow you to represent groups of related information. Looping provides efficiency and flexibility to your programs. Using both we will expand upon the photo gallery example.
+
+- Resources
+- Lecture Materials
+- Assessment
+- Quiz: JavaScript Review
