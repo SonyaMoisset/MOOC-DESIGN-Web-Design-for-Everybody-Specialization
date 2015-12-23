@@ -35,3 +35,4 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ### 23/12/2015
 - Finished Week 2 | Reacting to Your Audience in Course 3 | Interactivity with JavaScript
+- Finished Week 3 | Arrays and Looping in Course 3 | Interactivity with JavaScript
