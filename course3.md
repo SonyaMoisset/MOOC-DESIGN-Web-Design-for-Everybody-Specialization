@@ -33,3 +33,13 @@ This week we will delve into more complex programming concepts: arrays and loopi
 - Lecture Materials
 - Assessment
 - Quiz: JavaScript Review
+
+#### Week 4
+##### Week Four: Validating Form Data
+This week we will put a number of the concepts from this course together to tackle a new project - creating and validating input entered into an HTML5 form. Forms are extremely common elements used to input and send data to via a webpage. We will look at how you can use JavaScript to add options to your forms, to pre-fill data based on previous input, and even to check that passwords match.
+
+- Resources
+- Lecture Materials
+- Assessment
+- Optional Material/Resources
+- Assignment: Autocomplete with JavaScript
