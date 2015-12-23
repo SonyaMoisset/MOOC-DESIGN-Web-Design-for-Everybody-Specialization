@@ -15,3 +15,12 @@ If you haven't use a traditional programming language before, this first week is
 - Lectures Materials
 - Assessment
 - Optionals Material/Resources
+
+#### Week 2
+##### Week Two: Reacting to Your Audience
+If you have written HTML code in the past, hopefully you have fallen into the great habit of validating your code -- making sure that you close all of your open tags. There are other rules that you may or may not have been following as well, for instance the importance of using each id attribute only once per page. This is called writing "clean" code. The reasoning and importance of following these rules becomes clear as we begin to manipulate the different components of your webpage based on the the actions of the person interacting with your page. In particular you will learn about how the JavaScript Mouse Events and Touch Events. This week's materials will end with a photo gallery example that you can create along with me.
+
+- Resources
+- Lecture Materials
+- Assessment
+- Assignment: JavaScript Interactive Photo Galery
