@@ -37,3 +37,6 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 - Finished Week 2 | Reacting to Your Audience in Course 3 | Interactivity with JavaScript
 - Finished Week 3 | Arrays and Looping in Course 3 | Interactivity with JavaScript
 - Finished Week 4 | Validating Form Data in Course 3 | Interactivity with JavaScript
+
+### 15/03/2016
+- Finished Week 1 | Week One: Style with Responsive Design in Course 4 | Advanced Styling with Responsive Design 
