@@ -16,3 +16,11 @@ This course will expand upon the basic knowledge of CSS3 to include topics such 
 - Assessment
 - Optional Resources
 - Quiz: Basic Concepts in Responsive Design approaches
+
+#### Week 2
+##### Week Two: Basic Concepts
+
+- Lecture Materials
+- Assessment
+- Optional Materials
+- Quiz: Week Two Review: Media Queries and breakpoints
