@@ -32,3 +32,11 @@ This course will expand upon the basic knowledge of CSS3 to include topics such 
 - Assessment
 - Optional Materials
 - Quiz: Week Three Review: Bootstrap
+
+#### Week 4
+##### Week Four: Experiment!
+
+- Lecture Materials
+- Assessment
+- Optional Readings
+- Quiz: Responsive Design Final Assessment
