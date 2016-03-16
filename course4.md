@@ -24,3 +24,11 @@ This course will expand upon the basic knowledge of CSS3 to include topics such 
 - Assessment
 - Optional Materials
 - Quiz: Week Two Review: Media Queries and breakpoints
+
+#### Week 3
+##### Week Three: Use Existing Frameworks
+
+- Lecture Materials
+- Assessment
+- Optional Materials
+- Quiz: Week Three Review: Bootstrap
