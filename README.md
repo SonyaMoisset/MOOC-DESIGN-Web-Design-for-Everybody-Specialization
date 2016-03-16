@@ -44,3 +44,4 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ### 15/03/2016
 - Finished Week 3 | Week Three: Use Existing Frameworks in Course 4 | Advanced Styling with Responsive Design
+- Finished Week 4 | Week Four: Experiment! in Course 4 | Advanced Styling with Responsive Design
